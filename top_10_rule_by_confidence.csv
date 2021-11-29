@@ -1,0 +1,11 @@
+antecedente,consecuente,confidence,support,lift
+"('Mask Off', 'DNA.')","('HUMBLE.',)",0.909,0.01,19.55
+"('DNA.', 'XO TOUR Llif3')","('HUMBLE.',)",0.864,0.01,18.589
+"('DNA.',)","('HUMBLE.',)",0.823,0.019,17.688
+"('Mask Off', 'XO TOUR Llif3')","('HUMBLE.',)",0.804,0.013,17.283
+"('Broccoli (feat. Lil Yachty)', 'Bounce Back')","('Bad and Boujee (feat. Lil Uzi Vert)',)",0.775,0.01,22.469
+"('Slippery (feat. Gucci Mane)', 'XO TOUR Llif3')","('HUMBLE.',)",0.765,0.01,16.455
+"('Tunnel Vision', 'XO TOUR Llif3')","('HUMBLE.',)",0.75,0.01,16.129
+"('Mask Off', 'Congratulations')","('HUMBLE.',)",0.747,0.012,16.063
+"('Mask Off', 'Bounce Back')","('HUMBLE.',)",0.743,0.01,15.971
+"('Mask Off', 'goosebumps')","('HUMBLE.',)",0.743,0.011,15.984
